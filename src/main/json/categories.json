@@ -1,0 +1,18 @@
+[
+  { "id": 1, "text": "Sidewalk Shed", "color": "#67AA3C" },
+  {
+    "id": 2,
+    "text": "Scaffold",
+    "color": "#EFD652"
+  },
+  {
+    "id": 3,
+    "text": "Shoring",
+    "color": "#9640BE"
+  },
+  {
+    "id": 4,
+    "text": "Shoring",
+    "color": "#9640BE"
+  }
+]

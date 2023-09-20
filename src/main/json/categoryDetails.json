@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "item": "G42295",
+    "quantity": 10,
+    "description": "Some description",
+    "notes": "some notes",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "item": "M721",
+    "quantity": 83,
+    "description": "Some description",
+    "notes": "some notes",
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "item": "M94796",
+    "quantity": 31,
+    "description": "Some description",
+    "notes": "some notes",
+    "categoryId": 1
+  },
+  {
+    "id": 4,
+    "item": "S25907",
+    "quantity": 47,
+    "description": "Some description",
+    "notes": "some notes",
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "item": "S25907",
+    "quantity": 47,
+    "description": "Some description",
+    "notes": "some notes",
+    "categoryId": 2
+  },
+  {
+    "id": 6,
+    "item": "sefsefsef",
+    "quantity": 64,
+    "description": "Some description",
+    "notes": "some notes",
+    "categoryId": 3
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "jobSiteName": "Serxhio",
+    "status": "Completed",
+    "categoryIds": [1, 2, 3]
+  },
+  {
+    "id": 2,
+    "jobSiteName": "Andrea",
+    "status": "In Progress",
+    "categoryIds": [2]
+  },
+  {
+    "id": 3,
+    "jobSiteName": "CC",
+    "status": "On Hold",
+    "categoryIds": [1, 3]
+  }
+]
